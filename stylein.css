@@ -1,0 +1,58 @@
+body {
+  background-color: whitesmoke;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+.myDiv{
+  
+  color: black;
+  
+
+  font-size: 120%;
+  
+  margin-top: 260px;
+  margin-bottom: 45px;
+  margin-right: 510px;
+  margin-left: 510px;
+}
+.button {
+  background-color: #006DB5;
+  border:1px;
+  color: white;
+  padding: 10px 50px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 25px 40px;
+  cursor: pointer;
+  margin-top: -120px;
+  margin-bottom: 30px;
+  margin-right: 50px;
+  border-radius: 100px;
+}
+.button1 {
+  background-color: #006DB5; 
+  color: white; 
+  border: 2px solid white;
+  margin-right: 20px;
+  
+}
+
+.button1:hover {
+  background-color: white;
+  color: #006DB5;
+  border: 2px solid #006DB5;
+}
+
+.button2 {
+  background-color: #006DB5; 
+  color: white; 
+  border: 2px solid white;
+  margin-left: 30px;
+}
+
+.button2:hover {
+  background-color: white;
+  color: #006DB5;
+  border: 2px solid #006DB5;
+}

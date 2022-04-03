@@ -1,0 +1,94 @@
+body {
+  background-color: #87CEEB;
+  font-family: 'Roboto', sans-serif;
+}
+input[type=text] {
+  width: 60%;
+  padding: 12px 20px;
+  margin: 40px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  border-radius: 100px;
+    font-size: 18px;
+    outline: none !important;
+
+}
+input[type=password] {
+  width: 60%;
+  padding: 12px 20px;
+  margin: 5px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 100px;
+  box-sizing: border-box;
+  border-radius: 100px;
+    font-size: 18px;
+    outline: none !important;
+   
+}
+
+input[type=submit] {
+  width: 30%;
+  background-color:  #006DB5;
+  color: whitesmoke;
+  padding: 14px 20px;
+  margin: 35px 0;
+  margin-right: 90px;
+  margin-left: 80px;
+  font-size: 18px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  border-radius: 100px;
+ border: 1px solid  #006DB5;
+ margin-top: 50px;
+}
+
+input[type=submit]:hover {
+  background-color: white;
+  color: #006DB5 ;
+  border: 1px solid  #006DB5;
+  
+}
+h2{
+  color: #006DB5;
+  font-size: 35px;
+  margin-top: -3px;
+  margin-bottom: 20px;
+  margin-right: 95px;
+  margin-left: 80px;
+  padding-top:13px ;
+  
+}
+h4{
+  color: #006DB5;
+  font-size: 20px;
+  margin-top: 15px;
+  padding-bottom: 15px;
+  margin-right: 80px;
+  margin-left: 80px;
+}
+.account{
+  color: #7F00FF;
+
+}
+
+div {
+  border-radius: 10px;
+  background-color:whitesmoke ;
+  padding: 30px;
+  width: 600px;
+  height: 450px;
+  margin-top: 120px;
+  margin-bottom: 20px;
+  margin-right: 50px;
+  margin-left: 80px;
+  font-family: 'Roboto', sans-serif;
+}
+a
+{
+color: #87CEEB;
+text-decoration: none;
+}
